@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+  #job-info .row-2 {
+    height: 450px !important;
+  }
+  .item-grid {
+    height: 630px !important;
+  }
+
+  /* CSS CHO BỐ CỤC FLEX-ROW */
+}
