@@ -1,1 +1,1 @@
-https://luchintrinh.github.io/digitalCV/
+https://luchintrinh.github.io/DigitalCV/
